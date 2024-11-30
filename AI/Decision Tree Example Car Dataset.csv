@@ -1,0 +1,15 @@
+Type,Color,Tyre,Doors,Label
+suv,red,white,2,1
+car,green,black,2,1
+car,blue,white,2,1
+suv,green,white,4,1
+car,red,black,2,1
+minivan,blue,white,4,0
+car,green,white,4,0
+minivan,red,black,4,0
+suv,green,black,4,0
+suv,blue,black,2,0
+suv,red,black,2,0
+car,blue,black,4,0
+suv,green,black,2,0
+minivan,green,white,4,0
